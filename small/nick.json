@@ -1,0 +1,13 @@
+{
+    "name": "nick",
+    "things": [
+        "chair",
+        "table",
+        {
+            "sofa": {
+                "color": "gray",
+                "age": 2
+            }
+        }
+    ]
+}
